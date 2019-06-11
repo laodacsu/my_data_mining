@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from  matplotlib.patches import Polygon
+print(3)
 # plt.style.use('ggplot')
 # x=np.linspace(0,10,100)
 # y=x**2
